@@ -1,0 +1,5 @@
+[versions]
+# Deleting this line fixes the issue
+test = "1"
+
+[libraries]
